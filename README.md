@@ -104,13 +104,4 @@ Workflows can be executed via:
 [Neat tricks](https://youtu.be/NBhARSnjvwg)<br>
 [MOST IMPORTANT](https://cdn11.bigcommerce.com/s-v7bssafn/images/stencil/760x600/products/1022/5529/20240624-DSC_3994-Edit__76162.1719226837.jpg?c=2)<br>
 
-## Credits
-
-- @imgroup: Real-world business implementations
-- n8n.io community contributors
-
-## License
-
-[MIT License](LICENSE)
-
 
